@@ -1,3 +1,6 @@
 [submodule "opsworks_sidekiq"]
 	path = opsworks_sidekiq
 	url = https://github.com/Drakula2k/opsworks_sidekiq
+[submodule "opsworks_whenever"]
+	path = opsworks_whenever
+	url = git@github.com:Drakula2k/opsworks_whenever.git
